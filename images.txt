@@ -1,1 +1,2 @@
-rabbitmq:4.0.5-management-alpine
+mongodb/mongodb-community-server:7.0.12-ubi8-20250315T080728Z
+postgres:14.17-bookworm
