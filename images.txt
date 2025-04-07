@@ -1,2 +1,2 @@
-mongodb/mongodb-community-server:7.0.12-ubi8-20250315T080728Z
-postgres:14.17-bookworm
+elasticsearch:8.16.6
+kibana:8.16.6
