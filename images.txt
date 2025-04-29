@@ -1,1 +1,1 @@
-jenkins:2.507-jdk17
+jenkins:2.507
