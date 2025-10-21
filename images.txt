@@ -1,1 +1,4 @@
-eclipse-temurin:17-jre-alpine
+gorse-master:nightly
+gorse-worker:nightly
+gorse-server:nightly
+
