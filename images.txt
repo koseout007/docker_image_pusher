@@ -1,4 +1,4 @@
-gorse-master:nightly
-gorse-worker:nightly
-gorse-server:nightly
+zhenghaoz/gorse-master:nightly
+zhenghaoz/gorse-worker:nightly
+zhenghaoz/gorse-server:nightly
 
