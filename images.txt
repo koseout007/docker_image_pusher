@@ -1,4 +1,2 @@
-zhenghaoz/gorse-master:nightly
-zhenghaoz/gorse-worker:nightly
-zhenghaoz/gorse-server:nightly
+redis/redis-stack:7.2.0-v19
 
