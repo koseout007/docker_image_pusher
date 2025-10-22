@@ -1,2 +1,2 @@
-redis/redis-stack:7.2.0-v19
+redis/redisinsight:2.70
 
