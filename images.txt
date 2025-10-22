@@ -1,2 +1,2 @@
-minhnn32/milvus-etcd:0.0.1
-
+dockerai2024/milvus-minio:0.0.1
+nihalebr/milvus-standalone:v0.1
