@@ -1,2 +1,2 @@
-redis/redisinsight:2.70
+zhenghaoz/gorse-master:0.5.0-alpha.6
 
