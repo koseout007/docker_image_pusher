@@ -1,2 +1,2 @@
-dockerai2024/milvus-minio:0.0.1
-nihalebr/milvus-standalone:v0.1
+zhenghaoz/gorse-worker:0.5.0-alpha.6
+zhenghaoz/gorse-server:0.5.0-alpha.6
